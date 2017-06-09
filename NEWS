@@ -1,6 +1,11 @@
-- 2017/03/18
+- 2017/06/09
 
- * New vignettes in rmarkdown/HTML format were added. Old LaTeX/PDF vignettes were deleted.
+ * Update of the vignette and case study. From LaTeX to markdown and from PDF 
+   output to HTML.
+
+ * Updated inner functions at 'disGeNET.R' to repair jaccardEstimation function,
+   that was broken due to an update on DisGeNET database.
+
 
 - 2016/10/28
 
